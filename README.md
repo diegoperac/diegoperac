@@ -33,9 +33,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 💬 ask me about anything, i am happy to help;
+If you like what I do, maybe consider sponsoring my research:
+
+<a href="https://github.com/sponsors/diegoperac" target="_blank">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+</a>
+
 ### :man_technologist: About Me:
-:man_scientist: I am a Junior Scientist & Researcher from Brazil.
+- :man_scientist: Junior Scientist & Researcher from Brazil.
+
 - :triangular_flag_on_post: GitHub Campus Expert (still in training).
 
 - :man_student: Dual degree student in Medicine (MD) and Physics (BSc) with an exchange studies period in Moscow, Russia. 
