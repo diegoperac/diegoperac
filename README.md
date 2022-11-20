@@ -20,8 +20,7 @@
   </a>
   <a href="mailto:diegoperac.letmeamessage@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  
+  </a>  
 </div>
 
 <div id="counter" align="center">
@@ -30,8 +29,10 @@
 
 <h1 align="center">
   Hey, Everyone
+  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 
 If you like what I do, maybe consider sponsoring my research:
 
@@ -93,4 +94,9 @@ If you like what I do, maybe consider sponsoring my research:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegoperac&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+---
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&cover_image=true&theme=default&show_offline=true&background_color=030303&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&redirect=true)
+
+---
+“All men by nature desire to know.”<br />
+Aristotle, Metaphysics
