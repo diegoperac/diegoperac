@@ -28,11 +28,11 @@
 
 ### :man_technologist: About Me:
 :man_scientist: I am a Junior Scientist & Researcher from Brazil.
-- :man_student: I'm a dual degree student in Medicine (MD) and Physics (BSc).
+- :man_student: Dual degree student in Medicine (MD) and Physics (BSc) with an exchange studies period in Moscow, Russia. 
 
-- :computer: I’m working as a Machine Learning Engineer building applications in medicine using artificial intelligence and virtual reality. 
+- :computer: Working as a Machine Learning Engineer building applications in medicine using artificial intelligence and virtual reality. 
 
-- :brain: I'm focused on Neurociences and Nuclear & Particle Physics.
+- :brain: Focused on Neurociences and Nuclear & Particle Physics.
 
 ---
 ### :hammer_and_wrench: Languages and Tools:
