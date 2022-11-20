@@ -54,6 +54,8 @@ If you like what I do, maybe consider sponsoring my research:
 - :nerd_face: Interested in Alzheimer, Medical Imaging, Medical Physics, Neurology and Neurogengineering.
 
 - :microscope: Currently investigating scattering methods (neutron, x-ray, light, spectroscopy etc.) to study structure of proteins.
+
+- :atom_symbol: Enthusiat about quantum computing. 
 ---
 ### :hammer_and_wrench: Languages and Tools:
 <div>
