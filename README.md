@@ -26,14 +26,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+- 💬 ask me about anything, i am happy to help;
 ### :man_technologist: About Me:
 :man_scientist: I am a Junior Scientist & Researcher from Brazil.
+- :triangular_flag_on_post: GitHub Campus Expert (still in training).
+
 - :man_student: Dual degree student in Medicine (MD) and Physics (BSc) with an exchange studies period in Moscow, Russia. 
 
-- :computer: Working as a Machine Learning Engineer building applications in medicine using artificial intelligence and virtual reality. 
+- :computer: Passionate self-taught Machine Learning Engineer building applications in medicine using artificial intelligence and virtual reality. 
 
 - :brain: Focused on Neurociences and Nuclear & Particle Physics.
 
+- :nerd_face: Interested in 
+
+- :beach_umbrella: My hobbies are
 ---
 ### :hammer_and_wrench: Languages and Tools:
 <div>
@@ -70,6 +76,9 @@
 
 ---
 ### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegoperac&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoperac&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&cover_image=true&theme=default&show_offline=true&background_color=030303&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&redirect=true)
