@@ -12,9 +12,16 @@
   <a href="https://twitter.com/diegoperac">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.goodreads.com/user/show/94792021-diego-pereira">
+    <img src="https://img.shields.io/badge/Goodreads-beige?style=for-the-badge&logo=goodreads&logoColor=brown" alt="Goodreads Badge"/>
+  </a>
+  <a href="https://letterboxd.com/diegoperac/">
+    <img src="https://a.ltrbxd.com/logos/letterboxd-logo-h-neg-rgb-1000px.png" alt="Letterboxd" height="29" width="100"/>
+  </a>
   <a href="mailto:diegoperac.letmeamessage@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  
 </div>
 
 <div id="counter" align="center">
@@ -37,9 +44,9 @@
 
 - :brain: Focused on Neurociences and Nuclear & Particle Physics.
 
-- :nerd_face: Interested in 
+- :nerd_face: Interested in Alzheimer, Medical Imaging, Medical Physics, Neurology and Neurogengineering.
 
-- :beach_umbrella: My hobbies are
+- :microscope: Currently investigating scattering methods (neutron, x-ray, light, spectroscopy etc.) to study structure of proteins.
 ---
 ### :hammer_and_wrench: Languages and Tools:
 <div>
@@ -76,9 +83,8 @@
 
 ---
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoperac&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegoperac&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegoperac&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&cover_image=true&theme=default&show_offline=true&background_color=030303&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&redirect=true)
