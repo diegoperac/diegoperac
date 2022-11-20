@@ -95,6 +95,7 @@ If you like what I do, maybe consider sponsoring my research:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegoperac&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
+### :musical_note: Check out what I'm listening to:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&cover_image=true&theme=default&show_offline=true&background_color=030303&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=diegoperac&redirect=true)
 
 ---
