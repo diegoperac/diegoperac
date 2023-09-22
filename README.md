@@ -9,9 +9,6 @@
   <a href="https://www.youtube.com/channel/UCVcIDWLmnsYqPLqXv9TD2Pw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/diegoperac">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://www.goodreads.com/user/show/94792021-diego-pereira">
     <img src="https://img.shields.io/badge/Goodreads-beige?style=for-the-badge&logo=goodreads&logoColor=brown" alt="Goodreads Badge"/>
   </a>
@@ -45,15 +42,17 @@ If you like what I do, maybe consider sponsoring my research:
 
 - :triangular_flag_on_post: GitHub Campus Expert (still in training).
 
+- 👨‍💻: Microsoft Student Ambassador. 
+
 - :man_student: Dual degree student in Medicine (MD) and Physics (BSc) with an exchange studies period in Moscow, Russia. 
 
-- :computer: Passionate self-taught Machine Learning Engineer building applications in medicine using artificial intelligence and virtual reality. 
+- :computer: Passionate self-taught Machine Learning Engineer building applications in medicine using artificial intelligence. 
 
 - :brain: Focused on Neurociences and Nuclear & Particle Physics.
 
-- :nerd_face: Interested in Alzheimer, Medical Imaging, Medical Physics, Neurology and Neurogengineering.
+- :nerd_face: Interested in Alzheimer, Medical Imaging and Neurological Disorders.
 
-- :microscope: Currently investigating scattering methods (neutron, x-ray, light, spectroscopy etc.) to study structure of proteins.
+- :microscope: Currently investigating scattering methods (neutron, x-ray etc.) to study structure of proteins.
 
 - :atom_symbol: Enthusiat about quantum computing. 
 ---
